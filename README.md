@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Final-year Computer Science Student at Korea University
+Final-year Computer Science Student at Korea University.
 Interested in Machine Learning, Artificial Intelligence, and Software Development.
 Currently building projects, practising my coding skills, and continuously learning through hands-on experience. 
 
